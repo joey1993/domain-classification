@@ -1,4 +1,11 @@
 # Domain Classification for Aztec Tools
+Requisites:
+```
+java 8
+python 2.7
+pip install nltk, numpy, operator, json
+```
+Procedures:
 ```
 cd dist
 # prepare training/test datasets
